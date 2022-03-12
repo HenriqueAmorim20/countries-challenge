@@ -1,9 +1,9 @@
-<template>
-  <div>index</div>
-</template>
+<template></template>
 <script>
 export default {
   name: "IndexPage",
+  mounted() {
+    this.$router.push("/countries");
+  },
 };
 </script>
-<style></style>
