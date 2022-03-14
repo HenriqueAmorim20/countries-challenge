@@ -39,7 +39,7 @@ export default {
 </script>
 <style scoped>
 .country {
-  color: inherit;
+  color: inherit !important;
   cursor: pointer;
 }
 
@@ -52,18 +52,22 @@ export default {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  color: inherit !important;
   padding: 1rem 1rem 1.5rem;
 }
 
 .country-info h2 {
   margin-bottom: 0.7rem;
   font-size: 1.3rem;
+  color: inherit !important;
 }
 .country-info span {
   font-size: 0.9rem;
+  color: inherit !important;
 }
 
 .country-info b {
   font-weight: 600;
+  color: inherit !important;
 }
 </style>
