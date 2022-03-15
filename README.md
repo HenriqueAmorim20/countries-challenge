@@ -50,7 +50,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/HenriqueAmorim20/countries-challenge)
-- Live Site URL: [Web](https://master.d2drl4y7ebnpeb.amplifyapp.com)
+- Live Site URL: [Web](https://melohenrique-countrieschallenge.netlify.app/countries/)
 
 ## My process
 
